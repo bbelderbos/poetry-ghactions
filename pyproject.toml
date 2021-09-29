@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pybites-poetry-stub"
-version = "0.1.0"
+version = "0.2.0"
 description = "Quick package to test automation of publishing to PyPI"
 authors = ["Bob Belderbos <bobbelderbos@gmail.com>"]
 license = "MIT"
