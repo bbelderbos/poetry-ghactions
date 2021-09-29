@@ -1,9 +1,13 @@
 [tool.poetry]
-name = "mypackage"
+name = "pybites-poetry-stub"
 version = "0.1.0"
 description = "Quick package to test automation of publishing to PyPI"
 authors = ["Bob Belderbos <bobbelderbos@gmail.com>"]
 license = "MIT"
+
+packages = [
+    {include = "mypackage"}
+]
 
 [tool.poetry.dependencies]
 python = "^3.7"
