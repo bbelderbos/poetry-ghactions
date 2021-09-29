@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "poetry-ghactions"
+name = "mypackage"
 version = "0.1.0"
 description = "Quick package to test automation of publishing to PyPI"
 authors = ["Bob Belderbos <bobbelderbos@gmail.com>"]
